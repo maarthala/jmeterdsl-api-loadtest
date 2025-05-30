@@ -25,7 +25,7 @@ mvn clean test
 
     Below is an example of project folder structure
 
-    <pre><code>
+ 
     jmeterdsl-api-loadtest/
         ├── README.md
         ├── src/
@@ -43,5 +43,5 @@ mvn clean test
         │   └── entities.csv
         ├── start.sh
         └── results/
-    </code></pre>
+
 
