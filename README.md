@@ -37,7 +37,6 @@ mvn clean test
         │                   └── transactions/
         │                   └── utils/
         │           └── PerformanceTest.java
-        ├── petstore.yaml
         ├── resources/
         │   │   └── payloads/
         │   └── entities.csv
