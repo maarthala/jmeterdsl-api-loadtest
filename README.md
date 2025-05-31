@@ -28,6 +28,7 @@ mvn clean test
  
     jmeterdsl-api-loadtest/
         ├── README.md
+        ├── http-tests/
         ├── src/
         │   └── test/
         │       └── java/
@@ -40,7 +41,8 @@ mvn clean test
         ├── resources/
         │   │   └── payloads/
         │   └── entities.csv
-        ├── start.sh
+        ├── .env
+        ├── pom.xml
         └── results/
 
 
